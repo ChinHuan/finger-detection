@@ -1,5 +1,5 @@
 # finger-detection
-This script is developed using Python 2.7 and OpenCV 3.2.0
+The scripts are developed using Python 2.7 and OpenCV 3.2.0
 
 ## FingersNumberDetector.py
 ### Usage
